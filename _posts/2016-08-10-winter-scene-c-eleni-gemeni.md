@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-10T20:53:57.915Z'
+datePublished: '2016-08-10T20:55:15.393Z'
+sourcePath: _posts/2016-08-10-winter-scene-c-eleni-gemeni.md
 author: []
 via: {}
-dateModified: '2016-08-10T20:53:37.393Z'
+dateModified: '2016-08-10T20:55:04.831Z'
 title: ''
 publisher: {}
 description: 'Winter scene, (c) Eleni Gemeni'
 starred: false
-sourcePath: _posts/2016-08-10-winter-scene-c-eleni-gemeni.md
 inFeed: true
 hasPage: true
 inNav: false
