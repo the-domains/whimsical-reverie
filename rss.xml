@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[whimsical reverie]]></title>
         <description><![CDATA[whimsical reverie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/whimsical-reverie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 20:53:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 20:55:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/whimsical-reverie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78a87ea1-ec93-49b3-ac44-83a8aa5294d3.jpg" alt="Winter scene, (c) Eleni Gemeni">]]></description>
-            <link>undefinedwinter-scene-c-eleni-gemeni/index.html</link>
+            <link>https://thegrid.ai/whimsical-reverie/winter-scene-c-eleni-gemeni/index.html</link>
             <guid isPermaLink="false">74f3c05a-8a0f-424b-9511-e7086361a03b</guid>
-            <pubDate>Wed, 10 Aug 2016 20:53:57 GMT</pubDate>
+            <pubDate>Wed, 10 Aug 2016 20:55:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
